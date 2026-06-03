@@ -75,7 +75,7 @@ export const content = {
         summary:
           '围绕任务流、数据模块和视觉层级建立可扩展的界面系统，兼顾效率与情绪。',
         tags: ['UI System', 'Flow', 'Data'],
-        image: 'case-interface.png',
+        image: 'case-interface-v2.png',
         alt: '带有抽象界面面板的高级产品 mockup',
       },
       {
@@ -199,7 +199,7 @@ export const content = {
         summary:
           'A scalable interface system built around task flow, data modules, and visual hierarchy.',
         tags: ['UI System', 'Flow', 'Data'],
-        image: 'case-interface.png',
+        image: 'case-interface-v2.png',
         alt: 'Polished product mockup with abstract interface panels',
       },
       {
